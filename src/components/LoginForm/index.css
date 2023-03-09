@@ -1,0 +1,48 @@
+/* Write your CSS code here */
+.img3 {
+  height: 400px;
+  width: 600px;
+}
+
+.img4 {
+  height: 40px;
+  width: 150px;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  margin: 50px;
+}
+
+.form-container {
+  box-shadow: 0px 4px 16px 0px;
+  padding: 80px;
+}
+
+.user-name {
+  font-size: 12px;
+}
+
+.user-names {
+  padding: 6px;
+  width: 30vh;
+}
+
+.btn3 {
+  color: #ffffff;
+  background-color: #0b69ff;
+  border: none;
+  padding: 10px;
+  width: 30vh;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.para1 {
+  color: #ff0b37;
+  font-size: 12px;
+}
